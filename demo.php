@@ -1,3 +1,3 @@
 <?php
-echo "nihao ypw";
+echo "12nihao ypw";
 ?>
