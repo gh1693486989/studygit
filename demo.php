@@ -1,3 +1,3 @@
 <?php
-echo "ypw-nihao ypw";
+echo "ypw22-nihao ypw";
 ?>
